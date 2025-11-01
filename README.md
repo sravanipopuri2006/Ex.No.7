@@ -92,7 +92,7 @@ memory = {
 }
 ```
 
-## Expected Output:
+## Output:
 
 Personal Productivity Assistant Features:
 
